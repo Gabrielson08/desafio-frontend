@@ -1,3 +1,9 @@
+# Algumas das dificuldades encontradas:
+	- APIs, não tive conhecimento algum anteriormente.
+	- Javascript puro sem a utilização do JQUERY.
+	- Não consegui desenvolver a segunda parte do site (Segundo Call_to_action para baixo).
+	- Relembrar CSS e Javascript foi a parte mais difícil.
+
 # Inforce: Desafio para Frontend Developer
 Este documento descreve o desafio que será utilizado para avaliar os candidatos à vagas de frontend na Inforce. Caso você tenha chegado aqui por acaso, sinta-se à vontade em realizar o teste, e logo após, contar um pouco mais sobre você através do formulário de RH do nosso site (http://inforce.com.br/rh). 
 
